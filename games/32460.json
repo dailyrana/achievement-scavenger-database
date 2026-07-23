@@ -1,0 +1,132 @@
+{
+  "chapters": [
+    "Story",
+    "Win condition",
+    "Part Three",
+    "Part Four"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_PART1",
+      "display_name": "Largo Embargo Complete",
+      "chapter": "Story",
+      "hint": "Finish Part 1.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_PART2",
+      "display_name": "Four Map Pieces Complete",
+      "chapter": "Story",
+      "hint": "Finish Part 2.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_PART3",
+      "display_name": "LeChuck's Fortress Complete",
+      "chapter": "Story",
+      "hint": "Finish Part 3.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_PART4",
+      "display_name": "A True Pirate",
+      "chapter": "Story",
+      "hint": "Finish the game.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_SPEEDDEMON",
+      "display_name": "Speed Demon",
+      "chapter": "Win condition",
+      "hint": "Finish the game under three hours. ",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_MONKEYMASTER",
+      "display_name": "Monkey Master",
+      "chapter": "Win condition",
+      "hint": "Beat the game without using 1 hint.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_FREETHINKER",
+      "display_name": "Free Thinker",
+      "chapter": "Win condition",
+      "hint": "Beat the game using less than 10 hints.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_OLDSCHOOL",
+      "display_name": "Keeping it Old School",
+      "chapter": "",
+      "hint": "Switch to Classic mode.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_FIVEMINUTESLATER",
+      "display_name": "Five Minutes Later...",
+      "chapter": "Part Three",
+      "hint": "During Part 3, In the scene where Guybrush and Wally are hanging over an acid bath, wait 5 minutes and Guybrush will \"die\". Rather than receiving a game over, the game will restart the scene, allowing you to try again.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_TURNINGTHELIGHTSOUT",
+      "display_name": "Turning the Lights Out",
+      "chapter": "Win condition",
+      "hint": "Finish the game using object highlighting less than five times.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_DISCODANCER",
+      "display_name": "Helium Inhaler",
+      "chapter": "Part Four",
+      "hint": "At the end of Part 4, where you're fighting Le Chuck, Fill the Balloon with Helium and use it on yourself.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_CALL911",
+      "display_name": "Call 9-1-1",
+      "chapter": "Part Four",
+      "hint": "(Save before attempting) During Part 4, when exploring the jungle, visit 5 screens without exiting the jungle to find a telephone then dial 911 there. \nJust in case, reload the save to not mess up with the hints achievement (I couldn't find any confirmation on whether this ruins the achievement or not)",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    }
+  ],
+  "checklists": []
+}
